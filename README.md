@@ -17,14 +17,6 @@ Extensive experiments demonstrate the superior performance of our method, signif
 
 <img width="100%" src="./figs/shape_complex_plot.png" />
 
-## Table of Contents
-
-- [Dataset](#dataset)
-- [Results](#results)
-- [License](#license)
-- [Citation](#Citation)
-- [Acknowledgements](#Acknowledgements)
-
 ## Dataset
 Please refer to <a href="https://github.com/cicailalala/GALoss?tab=readme-ov-file">GALoss</a> for downloading the preprocessed data
 
@@ -53,19 +45,6 @@ Trained with 20% labeled data_
 
 ## License
 This project is licensed under the MIT License
-
-## Citation
-```bibtex
-@misc{gu2025leveragingtextualanatomicalknowledge,
-      title={Leveraging Textual Anatomical Knowledge for Class-Imbalanced Semi-Supervised Multi-Organ Segmentation}, 
-      author={Yuliang Gu and Weilun Tsao and Bo Du and Thierry Géraud and Yongchao Xu},
-      year={2025},
-      eprint={2501.13470},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2501.13470}, 
-}
-```
 
 ## Acknowledgements
 
