@@ -1,2 +1,2 @@
 # TAK-Semi
-The code will be open-sourced within a month.
+https://arxiv.org/abs/2501.13470
