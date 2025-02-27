@@ -15,7 +15,7 @@ Annotating 3D medical images demands substantial time and expertise, driving the
 To address this gap, we propose a novel approach that integrates textual anatomical knowledge (TAK) into the segmentation model. Specifically, we use GPT-4o to generate textual descriptions of anatomical priors, which are then encoded using a CLIP-based model. These encoded priors are injected into the segmentation model as parameters of the segmentation head. Additionally, contrastive learning is employed to enhance the alignment between textual priors and visual features.
 Extensive experiments demonstrate the superior performance of our method, significantly surpassing state-of-the-art approaches.
 
-<img width="100%" src="./figs/shape_complex_plot.png" />
+<img width="80%" src="./figs/shape_complex_plot.png" />
 
 ## Dataset
 Please refer to <a href="https://github.com/cicailalala/GALoss?tab=readme-ov-file">GALoss</a> for downloading the preprocessed data
