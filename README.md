@@ -1,7 +1,6 @@
 <p align="center">
   <h1 align="center"> Leveraging Textual Anatomical Knowledge for Class-Imbalanced Semi-Supervised Multi-Organ Segmentation</h1>
   <p align="center">
- Yuliang Gu, Weilun Tsao, Bo Du, Thierry Geraud, and Yongchao Xu
   </p>
 </p>
 
