@@ -19,8 +19,11 @@ Annotating 3D medical images requires extensive time and expertise, making semi-
 Despite the availability of valuable prior knowledge—such as inter-organ relative positions and shape priors—existing SSL methods fail to effectively utilize these insights. To bridge this gap, we introduce **Textual Anatomical Knowledge (TAK)**:
 
 ✅ **Harnessing MLLM** to generate textual descriptions of anatomical priors.
+
 ✅ **Encoding anatomical prior knowledge** using a CLIP-based model.
+
 ✅ **Injecting TAK** into the segmentation model as parameters of the segmentation head.
+
 ✅ **Enhancing visual&textual feature alignment** via contrastive learning.
 
 Extensive experiments validate our method’s superiority, significantly outperforming state-of-the-art approaches! 🎯
